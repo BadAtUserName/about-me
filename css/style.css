@@ -1,0 +1,12 @@
+body {
+  background-color: lavender;
+}
+
+h1 {
+  font-size: 4vw;
+}
+
+div {
+  border-radius: 3px;
+    padding-left: 3px;
+}
