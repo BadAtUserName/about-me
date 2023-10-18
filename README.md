@@ -12,6 +12,7 @@ The website I built, is a fun way to get to know the author better. It includes 
 * [submission PR](http://xyz.com)
 * https://stackoverflow.com/questions/12244525/css-move-text-to-right
 * https://www.w3.org/TR/html401/present/graphics.html
+* https://www.thoughtco.com/change-fonts-using-css-3464229
 
 ### Lighthouse Accessibility Report Score
 

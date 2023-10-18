@@ -56,7 +56,7 @@ if (questionFiveGuess === 'y' || questionFiveGuess === 'yes') {
   console.log('You are correct I have run at least one half marathon, I have run 7');
   alert('You are correct I have run at least one half marathon, I have run 7');
 } else if (questionFiveGuess === 'n' || questionFiveGuess === 'no' ) {
-  //alert('I have run many half marathons in the past');
+  //console.log('I have run many half marathons in the past');
   alert('I have run many half marathons in the past');
 }
 
