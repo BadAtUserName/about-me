@@ -13,6 +13,8 @@ The website I built, is a fun way to get to know the author better. It includes 
 * https://stackoverflow.com/questions/12244525/css-move-text-to-right
 * https://www.w3.org/TR/html401/present/graphics.html
 * https://www.thoughtco.com/change-fonts-using-css-3464229
+* https://stackoverflow.com/questions/47707803/checking-user-input-against-an-array-act-as-a-guess-javascript
+
 
 ### Lighthouse Accessibility Report Score
 
