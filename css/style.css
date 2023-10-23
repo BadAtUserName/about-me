@@ -10,3 +10,33 @@ div {
   border-radius: 3px;
     padding-left: 3px;
 }
+.Education_Work {
+  padding-left: 10px;
+  margin: 10px;
+  font-size: 20;
+  font-weight: bolder;
+}
+ul {
+  list-style-type:square;
+  padding-left: 10px;
+  margin: 10px;
+}
+
+.ordered_list_top_10 {
+  padding-left: 10px;
+  margin: 10px;
+  font-size: 20;
+  font-weight: bolder;
+}
+
+ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+  padding-left: 10px;
+  margin: 10px;
+}
+li {
+  margin: 10px 0;
+  font-size: 16px;
+  color: #333333;
+}
