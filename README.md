@@ -19,6 +19,8 @@ The website I built, is a fun way to get to know the author better. It includes 
 ### Lighthouse Accessibility Report Score
 
 * Provide a screenshot of your score after running a Lighthouse Accessibility report.
+* <img width="1710" alt="lab3 lighthouse" src="https://github.com/BadAtUserName/about-me/assets/69227860/53d7f925-74a2-440d-9cc7-70309a93057d">
+
 
 ### Reflections and Comments
 
