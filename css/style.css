@@ -4,27 +4,53 @@ body {
 
 h1 {
   font-size: 4vw;
+  font-weight: bolder;
 }
-
 div {
   border-radius: 3px;
     padding-left: 3px;
+    margin: 5px
 }
+.About_Me_h1 {
+  padding-left: 5px;
+  padding-top: 5px;
+  margin: 5px;
+}
+.About_Me {
+  padding-left: 5px;
+} 
 .Education_Work {
-  padding-left: 10px;
-  margin: 10px;
+  padding-top: 5px;
+  padding-left: 5px;
+  margin: 5px;
   font-size: 20;
   font-weight: bolder;
 }
-ul {
-  list-style-type:square;
-  padding-left: 10px;
-  margin: 10px;
+.Education_background {
+  padding-left: 5px;
+  margin: 5px;
 }
 
-.ordered_list_top_10 {
-  padding-left: 10px;
+ul {
+  list-style-type:square;
+  padding-left: 15px;
+  margin: 15px;
+}
+.Goals {
+  padding-top: 5px;
+  padding-left: 5px;
+  margin: 5px;
+  font-size: 20;
+  font-weight: bolder;
+}
+.Goals_paragraph {
+  padding-left: 5px;
   margin: 10px;
+
+}
+.ordered_list_top_10 {
+  padding-left: 5px;
+  margin: 5px;
   font-size: 20;
   font-weight: bolder;
 }
@@ -32,8 +58,8 @@ ul {
 ol {
   list-style-type: decimal;
   list-style-position: inside;
-  padding-left: 10px;
-  margin: 10px;
+  padding-left: 15px;
+  margin: 15px;
 }
 li {
   margin: 10px 0;

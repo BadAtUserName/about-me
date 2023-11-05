@@ -1,6 +1,6 @@
 'use strict';
 
-//console.log('Bonjour world!');
+
 
 //Done Ask the user their name through a prompt()
 let userName = prompt('Hey there! What is your name? ');
@@ -16,11 +16,11 @@ function questionOneGuess () {
   let questionOneGuess = prompt('Do I have a dog named after a food? ').toLowerCase();
 
   if (questionOneGuess ==='y' || questionOneGuess ==='Yes'){
-  //console.log('Well done! You are correct');
+
     alert('Well done! You are correct');
     correctCount += 1;
   } else if(questionOneGuess === 'n' || questionOneGuess === 'No'){
-  //console.log('Sorry you are incorrect. I do have a dog named after a food his name is Sauce');
+
     alert('Sorry you are incorrect. I do have a dog named after a food his name is Sauce');
   }
 }
@@ -31,11 +31,11 @@ function questionTwoGuess () {
   let questionTwoGuess = prompt('Have I lived in Seattle most of my adult life?').toLowerCase();
 
   if (questionTwoGuess === 'y' || questionTwoGuess === 'yes') {
-  //console.log('Huzzah you are correct I have spent most of my adult life in Seattle');
+
     alert('Huzzah you are correct I have spent most of my adult life in Seattle');
     correctCount += 1;
   } else if(questionTwoGuess === 'n' || questionTwoGuess === 'no'){
-  //console.log('Sadly you are incorrect I have spent most of my adult life in seattle');
+
     alert('Sadly you are incorrect I have spent most of my adult life in seattle');
   }
 }
@@ -46,11 +46,11 @@ function questionThreeGuess () {
   let questionThreeGuess = prompt('Have I ever been a train engineer?').toLowerCase();
 
   if (questionThreeGuess === 'y' || questionThreeGuess === 'yes') {
-  //console.log('Although some of my closest friends do belive I have done this in the past, you dear user are incorrect');
+
     alert('Although some of my closest friends do belive I have done this in the past, you dear user are incorrect');
     correctCount += 1;
   } else if (questionThreeGuess === 'n' || questionThreeGuess === 'no') {
-  //console.log('You are correct I have sadly never spent any time as a train engineer');
+
     alert('You are correct I have sadly never spent any time as a train engineer');
   }
 }
@@ -61,11 +61,11 @@ function questionFourGuess () {
   let questionFourGuess = prompt('Did I invite Modest Mouse to my 16th Birthday with a hand written letter? ').toLowerCase();
 
   if (questionFourGuess === 'y' || questionFourGuess === 'Yes') {
-  //console.lop('Yes user I did invite them to my 16th birthday. Sadly they did not attend. Later in life i met the dummer out at a bar and told him how sad I was they did not attend');
+
     alert('Yes user I did invite them to my 16th birthday. Sadly they did not attend. Later in life i met the dummer out at a bar and told him how sad I was they did not attend');
     correctCount += 1;
   } else if (questionFourGuess === 'n' || questionFourGuess === 'no') {
-  //console.log('User you are incorrect. I did write them a letter. Fun fact I moved to seattle based on some of their lyrics to the song Doing the Cockroach');
+
     alert('User you are incorrect. I did write them a letter. Fun fact I moved to seattle based on some of their lyrics to the song Doing the Cockroach');
   }
 }
@@ -80,7 +80,7 @@ function questionFiveGuess () {
     alert('You are correct I have run at least one half marathon, I have run 7');
     correctCount += 1;
   } else if (questionFiveGuess === 'n' || questionFiveGuess === 'no' ) {
-  //console.log('I have run many half marathons in the past');
+
     alert('I have run many half marathons in the past');
   }
 }
@@ -115,12 +115,6 @@ function questionSixGuess (){
 
 questionSixGuess();
 
-//DONE Add a 7th question that has multiple possible correct answers that are stored in an array.
-//DONEGive the user 6 attempts to guess the correct answer.
-//DONEThe guesses will end once the user guesses a correct answer 
-//DONEor they run out of attempts.
-//DONEDisplay all the possible correct answers to the user.
-//DONEConsider using a loop of some sort for this question.
 
 function questionSevenGuess () {
   let seattleAnswers = ['rain', 'grey', 'cold'];//an array of correct answers
