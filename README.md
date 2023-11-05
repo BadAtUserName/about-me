@@ -17,6 +17,8 @@ The website I built, is a fun way to get to know the author better. It includes 
 
 
 ### Lighthouse Accessibility Report Score
+updated lighthouse score
+<img width="1710" alt="Screenshot 2023-11-05 at 3 44 10 PM" src="https://github.com/BadAtUserName/about-me/assets/69227860/b91dbe19-f114-42bf-92f1-4a448bfd5b10">
 
 
 <img width="1710" alt="lab3 lighthouse" src="https://github.com/BadAtUserName/about-me/assets/69227860/e870affb-4fbe-489e-9f0c-f13198d27cdd">
